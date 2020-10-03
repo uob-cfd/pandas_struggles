@@ -1,0 +1,15 @@
+
+{
+  "name": "pandas struggles",
+  "src": [
+    "pandas_struggles.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
